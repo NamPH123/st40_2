@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    
+
+           
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:background="@drawable/bg_card_stiker" android:tag="layout/layout_stiker_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rcv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="6dp"
+            android:layout_marginTop="2dp"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

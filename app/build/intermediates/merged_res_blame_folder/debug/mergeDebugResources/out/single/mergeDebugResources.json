@@ -1,0 +1,1542 @@
+[
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_seek_bar.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_seek_bar.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_25.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_25.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_delete_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/delete_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_11.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_11.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_12.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_12.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_9.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_9.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_swap.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_swap.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_sf_pro_display_medium.otf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/sf_pro_display_medium.otf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_flip.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_flip.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_test.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/test.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_roboto_lightitalic.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/roboto_lightitalic.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_faster_one_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/faster_one_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_18.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_18.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_roboto_bold.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/roboto_bold.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_text_stiker_3.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_text_stiker_3.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_8.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_8.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_pause_select_music.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_pause_select_music.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_coner_white.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/coner_white.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_bungeeshade_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/bungeeshade_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_7.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_7.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border3.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border3.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_10.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_10.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border12.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border12.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_music.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_music.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_flag_french.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_flag_french.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_transition.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_transition.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_style_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_style_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_home_rectangle.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_home_rectangle.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_8.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_8.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_13.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_13.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_text.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_text.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_23.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_23.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_edit.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_edit.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_flag_spanish.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_flag_spanish.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_null.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_null.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_text_stiker_1.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_text_stiker_1.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_16.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_16.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_facebook.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_facebook.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border1.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border1.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_tick.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_tick.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_23_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_23_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_check_language_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_check_language_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_x.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_x.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_no_item.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_no_item.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_inter_semi_bold.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/inter_semi_bold.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_add_2.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_add_2.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_13_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_13_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_20.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_20.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_cherrybombone_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/cherrybombone_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_8_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_8_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_dialog_delete.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_dialog_delete.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_funtion_edit_video.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_funtion_edit_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_bevietnampro_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/bevietnampro_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_rate_four.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_rate_four.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_replace_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/replace_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_15_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_15_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border10.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border10.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_swith_true_per.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_swith_true_per.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_select_folder.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_select_folder.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_text_stiker_7.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_text_stiker_7.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_speed_true.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/speed_true.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_15.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_15.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_alpha.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_alpha.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border7.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border7.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_effect_warm.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_effect_warm.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_28_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_28_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_left_music_home.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_left_music_home.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_delete_dialog.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_delete_dialog.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_font_true.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_font_true.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_av.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_av.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_tutorial.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_tutorial.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_music.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_music.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_pacifico_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/pacifico_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_bevietnampro_light.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/bevietnampro_light.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_new_project.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_new_project.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_language.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_language.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_21.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_21.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_4.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_4.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_policy.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_policy.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_rate.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_rate.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_3_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_3_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_12.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_12.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_14.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_14.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_text_true.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_text_true.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_effect_noir.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_effect_noir.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_6.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_6.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_roboto_light.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/roboto_light.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_chilanka_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/chilanka_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_whatsapp.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_whatsapp.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_colume.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_colume.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_language.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_language.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_1_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_1_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_line.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_line.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_tick_true.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_tick_true.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_19.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_19.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_layout_text.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/layout_text.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/xml_data_extraction_rules.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_2.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_2.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_delete.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_delete.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_27.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_27.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_merge_video.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_merge_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_rate_two.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_rate_two.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_home_vertical.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_home_vertical.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_blackopsone_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/blackopsone_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_flag_germani.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_flag_germani.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_roboto_thinltalic.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/roboto_thinltalic.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_photo_intro1.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/photo_intro1.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_photo_intro2.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/photo_intro2.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_27_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_27_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_10_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_10_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_20_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_20_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_true.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_true.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_3.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_3.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_stiker.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_stiker.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_pause.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_new_project.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_new_project.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_rate_five.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_rate_five.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_1.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_1.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_check_language_true.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_check_language_true.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_inter_bold.otf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/inter_bold.otf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_tick_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_tick_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border9.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border9.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_progress_drawable.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_progress_drawable.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_setting_true.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_setting_true.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_text_font.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_text_font.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_style_true.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_style_true.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_3.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_3.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_32.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_32.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_2.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_2.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_11_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_11_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_music_false.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/music_false.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_33.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_33.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_layout_frame.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/layout_frame.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_speed_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/speed_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_rate2.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_rate2.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_18.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_18.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_aclonica_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/aclonica_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_rate_one.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_rate_one.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_text_stiker_10.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_text_stiker_10.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_edit_video.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_edit_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_29.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_29.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_flag_hindi.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_flag_hindi.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_filter_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/filter_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_28.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_28.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_preview.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_preview.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_5.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_5.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_merge_video.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_merge_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_right_cut_video.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_right_cut_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border_1.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border_1.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_3.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_3.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_text_size.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_text_size.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_18_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_18_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_arrow_down.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_arrow_down.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_30.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_30.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_tele.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_tele.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_28.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_28.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_4.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_4.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_select_true.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_select_true.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_16.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_16.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_inter_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/inter_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_tiktok.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_tiktok.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_29.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_29.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_transition_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/transition_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_text_stiker_6.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_text_stiker_6.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_27.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_27.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_gradient_false.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_gradient_false.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_right_music.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_right_music.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_14.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_14.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_4.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_4.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_bevietnampro_medium.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/bevietnampro_medium.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_30.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_30.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_4_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_4_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_gradient_true.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_gradient_true.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_more.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_more.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_17.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_17.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_dialog_creat_name.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/dialog_creat_name.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_roboto_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/roboto_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_layout_stiker.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/layout_stiker.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_roboto_bolditalic.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/roboto_bolditalic.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/xml_backup_rules.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_select_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_select_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_text_stiker_5.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_text_stiker_5.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_15.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_15.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_sunshiney_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/sunshiney_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_splash.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_merge_video.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_merge_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_31.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_31.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_close.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_close.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_1.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_1.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_roboto_black.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/roboto_black.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_mute.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_mute.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_tick.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_tick.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_setting_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_setting_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_17.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_17.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_title_frame.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_title_frame.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_bg_select.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_bg_select.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border_rate.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border_rate.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_7.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_7.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_filter.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_filter.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_sf_pro_display_regular.otf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/sf_pro_display_regular.otf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_cut_video.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_cut_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_text_stiker_4.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_text_stiker_4.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_instagram.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_instagram.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_8.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_8.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_music.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_music.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_music.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_music.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border4.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border4.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_frame_true.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/frame_true.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_2_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_2_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_dynalight_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/dynalight_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_exporting_video.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_exporting_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border_share.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border_share.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_24.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_24.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_20.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_20.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_13.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_13.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_9.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_9.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_12.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_12.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_rate_rero.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_rate_rero.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_revert.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_revert.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_setting.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_setting.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_setting.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_setting.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border13.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border13.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_frame_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/frame_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_text_funtion.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_text_funtion.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_fill_filter.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_fill_filter.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_be_vietnapro_bold.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/be_vietnapro_bold.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_19.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_19.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_elsieswashcaps_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/elsieswashcaps_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_31.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_31.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_26.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_26.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_24_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_24_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_tick_home.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_tick_home.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_5.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_5.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_6.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_6.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_22.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_22.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_setting.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_10.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_10.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_14_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_14_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_delete.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/delete.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_9_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_9_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_arrow_up.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_arrow_up.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_text_style.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_text_style.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_transition_true.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/transition_true.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_seekbar.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_seekbar.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_null.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_null.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_15.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_15.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_add.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_progress.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_progress.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_scissors.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_scissors.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_12_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_12_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_7_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_7_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_bg_color.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_bg_color.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_13.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_13.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_effect_cold.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_effect_cold.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_bg_not_select.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_bg_not_select.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_back.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_flag_portugeese.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_flag_portugeese.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_roboto_italic.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/roboto_italic.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_20.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_20.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_ic_text_merge_video.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_ic_text_merge_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_swith_false_per.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_swith_false_per.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_pause.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_pause.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_color_alpha.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_color_alpha.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_roboto_blackitalic.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/roboto_blackitalic.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_main.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/xml_file_paths.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_btn_rate.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_btn_rate.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_text_stiker_2.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_text_stiker_2.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_19_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_19_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_dialog_delete.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/dialog_delete.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_photo_intro3.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/photo_intro3.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_delete_red.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_delete_red.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_left_cut_video.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_left_cut_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_rate_three.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_rate_three.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border2.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border2.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_true.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_true.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_play_select_music.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_play_select_music.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_uvn_chuky.TTF.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/uvn_chuky.TTF"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border11.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border11.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_sort_grid.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_sort_grid.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_text_stiker_8.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_text_stiker_8.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_harlowsl.TTF.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/harlowsl.TTF"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border_delete.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border_delete.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_2.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_2.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_thumb_seekbar.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_thumb_seekbar.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_14.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_14.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_home.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border8.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border8.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_save.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_save.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_filter_true.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/filter_true.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_18.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_18.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_save_successful.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_save_successful.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_1.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_1.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_10.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_10.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_yellowtail_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/yellowtail_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_30_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_30_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_permission.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_permission.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_thmeme1.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_thmeme1.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_17_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_17_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_thumb.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_thumb.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_permision.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_permision.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_5_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_5_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_share.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_select.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_select.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_26_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_26_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_logo_app.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/logo_app.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_16_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_16_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_11.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_11.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_26.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_26.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_effect_none.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_effect_none.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_effect_classic.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_effect_classic.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_roboto_thin.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/roboto_thin.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_19.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_19.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_sort_list.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_sort_list.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_miltonian_regular.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/miltonian_regular.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_16.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_16.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_imv_text_stiker_9.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/imv_text_stiker_9.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_25.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_25.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_21_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_21_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_31_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_31_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/raw_zoom_json.json.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/raw/zoom_json.json"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_right_music_home.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_right_music_home.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_6_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_6_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_dialog_rate.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/dialog_rate.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_5.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_5.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_rate_setting.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_rate_setting.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_resize.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_resize.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_frame.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_frame.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_stiker.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_stiker.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_font_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_font_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_select_edit_video.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_select_edit_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_item_language.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_language.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_6.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_6.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_22_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_22_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_23.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_23.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_21.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_21.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_25_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_25_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_frame.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_frame.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_next.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_next.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_rate_us.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_rate_us.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_lemon.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/lemon.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_delete.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_custom_progress_bar_cycle.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/custom_progress_bar_cycle.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border6.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border6.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_text_false.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_text_false.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_border_shadow.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/border_shadow.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_effect_sepia.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_effect_sepia.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_effect_green.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_effect_green.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_layout_speed.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/layout_speed.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_effect_monochrome.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_effect_monochrome.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_roboto_mediumitalic.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/roboto_mediumitalic.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_flag_english.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_flag_english.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_left_music.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_left_music.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_29_.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_29_.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/layout_activity_tutorial.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_tutorial.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_bg_card_border5.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/bg_card_border5.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_text_delete.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/text_delete.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_flag_indo.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_flag_indo.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_22.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_22.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_transition_17.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_transition_17.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_ic_play.xml.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/font_roboto_medium.ttf.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/font/roboto_medium.ttf"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_11.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_11.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_7.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_7.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_sticker_24.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/sticker_24.png"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-debug-76:/drawable_android_9.png.flat",
+        "source": "com.namseox.st040_mecut.app-main-78:/drawable/android_9.png"
+    }
+]

@@ -1,0 +1,5 @@
+com.namseox.st040_mecut.test.app-core-1.6.1-0 C:\Users\Admin\.gradle\caches\transforms-4\cba49dba6e2c9b422ccdb1633a914956\transformed\core-1.6.1\res
+com.namseox.st040_mecut.test.app-androidTest-1 D:\st040\app\build\generated\res\resValues\androidTest\debug
+com.namseox.st040_mecut.test.app-mergeDebugAndroidTestResources-2 D:\st040\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.namseox.st040_mecut.test.app-mergeDebugAndroidTestResources-3 D:\st040\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.namseox.st040_mecut.test.app-debugAndroidTest-4 D:\st040\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

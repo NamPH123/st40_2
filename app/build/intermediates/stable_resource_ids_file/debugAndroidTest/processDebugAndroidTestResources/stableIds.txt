@@ -1,0 +1,2 @@
+com.namseox.st040_mecut.test:style/WhiteBackgroundTheme = 0x7f010001
+com.namseox.st040_mecut.test:style/WhiteBackgroundDialogTheme = 0x7f010000

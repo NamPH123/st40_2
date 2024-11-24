@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_new_project.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_new_project.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_language.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_language.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_preview.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_preview.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_merge_video.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_merge_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/layout_stiker.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/layout_stiker.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/dialog_creat_name.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/dialog_creat_name.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_setting.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_setting.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/layout_speed.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/layout_speed.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_filter.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_filter.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_home_vertical.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_home_vertical.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_permision.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_permision.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_select_edit_video.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_select_edit_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_text.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_text.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_new_project.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_new_project.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_music.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_music.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_language.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_language.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_exporting_video.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_exporting_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/layout_frame.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/layout_frame.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_text_funtion.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_text_funtion.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_transition.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_transition.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_text_font.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_text_font.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_text_style.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_text_style.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/layout_text.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/layout_text.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_music.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_music.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_tutorial.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_tutorial.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_tutorial.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_tutorial.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_setting.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_edit_video.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_edit_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_main.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_home_rectangle.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_home_rectangle.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_cut_video.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_cut_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_save_successful.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_save_successful.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_frame.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_frame.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_stiker.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_stiker.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/activity_splash.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_merge_video.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_merge_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_select.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_select.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_title_frame.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_title_frame.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/dialog_rate.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/dialog_rate.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_funtion_edit_video.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_funtion_edit_video.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/item_select_folder.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/item_select_folder.xml"
+    },
+    {
+        "merged": "com.namseox.st040_mecut.app-mergeDebugResources-75:/layout/dialog_delete.xml",
+        "source": "com.namseox.st040_mecut.app-main-78:/layout/dialog_delete.xml"
+    }
+]
